@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test Post"
+date:   2013-12-19 14:42:40
+categories: jekyll update
+---
+
+
+Initial Test Post
+===
+This is Benji's first blog post, and is intended to test the jekyll site.
